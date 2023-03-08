@@ -1,11 +1,22 @@
+About r-santoku-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-santoku-feedstock/blob/main/LICENSE.txt)
+
 About r-santoku
-===============
+---------------
 
 Home: https://github.com/hughjonesd/santoku, https://hughjonesd.github.io/santoku/
 
 Package license: MIT
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-santoku-feedstock/blob/main/LICENSE.txt)
+Summary: A tool for cutting data into intervals. Allows singleton intervals. Always includes the whole range of data by default. Flexible labelling. Convenience functions for cutting by quantiles etc. Handles dates, times, units and other vectors.
+About r-santoku
+---------------
+
+Home: https://github.com/hughjonesd/santoku, https://hughjonesd.github.io/santoku/
+
+Package license: MIT
 
 Summary: A tool for cutting data into intervals. Allows singleton intervals. Always includes the whole range of data by default. Flexible labelling. Convenience functions for cutting by quantiles etc. Handles dates, times, units and other vectors.
 
