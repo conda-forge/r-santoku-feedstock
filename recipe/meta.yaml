@@ -1,4 +1,4 @@
-{% set version = "1.1.0" %}
+{% set version = "1.2.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/santoku_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/santoku/santoku_{{ version }}.tar.gz
-  sha256: 95a87ddc2be9e56b5cb933fb7918089cbeafac3a037208263ee09dbafea5d49b
+  sha256: 10079cee9de5536d8ea8c2950725911799122ca4c1c72366e1b4f9734a3ac086
 
 build:
-  number: 1
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
